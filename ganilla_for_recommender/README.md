@@ -2,6 +2,8 @@
 
 Experiments by yves and noah
 
+Please see the discussion in ganilla_presentation.pdf file
+
 Run test.py
 ``` bash
 python test.py --dataroot .\datasets\recomm --name recomm_cyclegan --model cycle_gan --netG resnet_fpn
