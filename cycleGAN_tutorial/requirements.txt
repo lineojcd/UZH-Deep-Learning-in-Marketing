@@ -1,0 +1,4 @@
+- pytorch
+- torchvision
+See: https://pytorch.org for how to install pytorch libraries
+- Pillow
