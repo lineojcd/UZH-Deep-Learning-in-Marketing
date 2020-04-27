@@ -1,8 +1,8 @@
-# ganilla_for_recommender
+# CycleGAN tutorial
 
-Experiments by yves and noah
+This folder provides background knowledge CycleGAN
 
-Run test.py
+Run
 ``` bash
 python test.py --dataroot .\datasets\recomm --name recomm_cyclegan --model cycle_gan --netG resnet_fpn
 ```
