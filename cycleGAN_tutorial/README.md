@@ -2,18 +2,20 @@
 
 This folder provides background knowledge CycleGAN
 
-Run
+
+
+# Readings
+GAN — Why it is so hard to train Generative Adversarial Networks!
 ``` bash
-python test.py --dataroot .\datasets\recomm --name recomm_cyclegan --model cycle_gan --netG resnet_fpn
+https://medium.com/@jonathan_hui/gan-why-it-is-so-hard-to-train-generative-advisory-networks-819a86b3750b
 ```
 
-Run train.py
+GAN — Wasserstein GAN & WGAN-GP
 ``` bash
-python test.py --dataroot .\datasets\recomm --name recomm_cyclegan --model cycle_gan --netG resnet_fpn --niter 9 --niter_decay 1 --continue_train
+https://medium.com/@jonathan_hui/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490
 ```
 
-
-Run train.py ablation model2
+CycleGAN: Learning to Translate Images (Without Paired Training Data)
 ``` bash
-python test.py --dataroot .\datasets\recomm --name recomm_cyclegan --model cycle_gan --netG resnet_fpn --niter 9 --niter_decay 1 --continue_train
+https://towardsdatascience.com/cyclegan-learning-to-translate-images-without-paired-training-data-5b4e93862c8d
 ```
