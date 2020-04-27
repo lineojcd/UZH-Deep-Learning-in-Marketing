@@ -1,9 +1,9 @@
 # CycleGAN tutorial
 
-This folder provides background knowledge CycleGAN
+This folder provides background knowledge of CycleGAN
 
 
-# Readings
+### Suggested Readings
 GAN — Why it is so hard to train Generative Adversarial Networks!
 ``` bash
 https://medium.com/@jonathan_hui/gan-why-it-is-so-hard-to-train-generative-advisory-networks-819a86b3750b
