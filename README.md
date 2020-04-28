@@ -12,3 +12,8 @@ The mycyclegan folder contains the code that implements the paper "Unpaired Imag
 The ganilla folder contains the network that implements the paper "GANILLA: Generative Adversarial Networks for Image to Illustration Translation" (by Noah and Yves), However, the weights are not provided due to insufficient time to train a good model. 
 
 The discoGAN folder contains the introduction and implementation of the paper "Learning to Discover Cross-Domain Relations with Generative Adversarial Networks"(from github open source).  However, it is only used for study not for production since the model has not been adapted to dress and shoes domain due to insufficient time.
+
+### Video presentation on youtube 
+```bash
+https://www.youtube.com/watch?v=mzON53UemYM
+```
