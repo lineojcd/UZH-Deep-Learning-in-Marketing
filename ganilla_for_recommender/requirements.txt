@@ -12,7 +12,7 @@ numpy==1.18.1
 olefile==0.46
 Pillow==7.0.0
 pycparser==2.20
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==19.0.0
 requests==2.23.0
 scipy==1.1.0
